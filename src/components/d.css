@@ -1,0 +1,21 @@
+.rcc{
+    width: 100%;
+    height: 100%;
+    border-radius: 0%;
+    -webkit-border-radius: 0%; 
+    -moz-border-radius: 0%;
+    border-radius: 0%;
+    
+   }
+  .element{
+    position:absolute;
+    top:25%;
+    width:100%;
+    height:100%;
+    left:5%;
+    background:black ;
+    
+    
+    clip-path: polygon(75.2% 24.9%, 24.9% 25.1%, 25.1% 75.2%, 25.1% 25.1%, 75.2% 25.2%, 74.9% 74.9%, 25% 75.2%, 75.2% 75.2%, 75% 75%, 75% 25%);
+    
+  }

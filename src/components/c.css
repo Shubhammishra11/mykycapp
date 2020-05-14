@@ -1,0 +1,11 @@
+.rc{
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    -webkit-mask-image: -webkit-radial-gradient(square,white 0%, black 100%);
+    -webkit-transform: rotate(0.000001deg); 
+    -webkit-border-radius: 100%; 
+    -moz-border-radius: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+   }
